@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "//georgiana-daniela-damian.github.io/goit-react-hw-02-phonebook/static/css/main.eeffa6d3.css",
+    "main.css": "//georgiana-daniela-damian.github.io/goit-react-hw-02-phonebook/static/css/main.e5e994a2.css",
     "main.js": "//georgiana-daniela-damian.github.io/goit-react-hw-02-phonebook/static/js/main.cd01cc16.js",
     "index.html": "//georgiana-daniela-damian.github.io/goit-react-hw-02-phonebook/index.html",
-    "main.eeffa6d3.css.map": "//georgiana-daniela-damian.github.io/goit-react-hw-02-phonebook/static/css/main.eeffa6d3.css.map",
+    "main.e5e994a2.css.map": "//georgiana-daniela-damian.github.io/goit-react-hw-02-phonebook/static/css/main.e5e994a2.css.map",
     "main.cd01cc16.js.map": "//georgiana-daniela-damian.github.io/goit-react-hw-02-phonebook/static/js/main.cd01cc16.js.map"
   },
   "entrypoints": [
-    "static/css/main.eeffa6d3.css",
+    "static/css/main.e5e994a2.css",
     "static/js/main.cd01cc16.js"
   ]
 }
